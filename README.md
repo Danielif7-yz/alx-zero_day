@@ -1,1 +1,1 @@
-My first readme
+information about this repo
